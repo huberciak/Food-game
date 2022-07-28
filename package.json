@@ -13,5 +13,8 @@
     "@pixi/graphics-extras": "^6.0.2",
     "howler": "^2.2.1",
     "pixi.js": "^6.0.2"
+  },
+  "devDependencies": {
+    "@types/pixi.js": "^5.0.0"
   }
 }
